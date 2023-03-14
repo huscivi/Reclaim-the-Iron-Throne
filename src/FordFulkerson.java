@@ -121,10 +121,7 @@ public class FordFulkerson {
             destination = src;
         }
     }
-
-
-
-    
+   
     // Method to calculate the maximum flow in the flow network with multiple sources
     private int getMaxFlow(String[] sources) {
         int totalFlow = 0;
